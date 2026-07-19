@@ -41,15 +41,18 @@ TagManager:
   - name: dirt1
     uniqueID: 3040164705
     locked: 1
-  - name: Background
-    uniqueID: 1337023873
+  - name: chest layer
+    uniqueID: 1323015381
     locked: 0
   - name: hills background
     uniqueID: 2503249027
     locked: 0
-  - name: chest layer
-    uniqueID: 1323015381
-    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1337023873
+    locked: 0
+  - name: enemy layer
+    uniqueID: 1906783933
     locked: 0
