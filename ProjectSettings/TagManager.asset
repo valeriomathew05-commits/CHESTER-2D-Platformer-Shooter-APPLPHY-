@@ -44,6 +44,9 @@ TagManager:
   - name: Background
     uniqueID: 1337023873
     locked: 0
+  - name: hills background
+    uniqueID: 2503249027
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
